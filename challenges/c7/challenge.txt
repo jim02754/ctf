@@ -1,5 +1,5 @@
 this will be Running strings on an image file.
 
-given  :  " "
+given  :  "588xpq.jpg "
 
-answer : 
+answer : flag(you_have_been_shreked)

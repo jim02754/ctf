@@ -1,5 +1,5 @@
 this will be Brute-forcing a ZIP file containing the flag.
 
-given  :  " "
+given  :  "the_more_you_fuck_around_the_more_you.jpg"
 
-answer : 
+answer : flag(you_found_out)

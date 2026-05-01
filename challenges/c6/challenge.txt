@@ -1,5 +1,5 @@
 this will be Extracting EXIF metadata from an image.
 
-given  :  " "
+given  :  "the_more_you_fuck_around_the_more_you.jpg"
 
-answer : 
+answer : flag(you_found_out)
