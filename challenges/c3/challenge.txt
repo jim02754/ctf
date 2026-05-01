@@ -1,0 +1,5 @@
+this will be a simple Base32 translation.
+
+given  :  "MZWGCZZIGI3TONBWGM3TONBYHA2TSNRJ "
+
+answer : flag(27746377488596) 

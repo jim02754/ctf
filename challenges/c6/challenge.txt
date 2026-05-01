@@ -1,0 +1,5 @@
+this will be Extracting EXIF metadata from an image.
+
+given  :  " "
+
+answer : 
