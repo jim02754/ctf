@@ -1,0 +1,1 @@
+this folder contains the challenges and the solution flags and the way to solve them 
