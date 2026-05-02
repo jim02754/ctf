@@ -1,5 +1,5 @@
-this will be Finding a flag hidden in the CSS/HTML code.
+this will be Finding a flag hidden in the CSS/HTML code. of the first index page
 
-given  :  " "
+given  :  "none "
 
-answer : 
+answer : flag(why_are_you_snooping)
